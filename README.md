@@ -1,7 +1,7 @@
-<h1 align="center">Watashi Wa🎎 Utkarsh Mishra</h1>
-<h3 align="center">Frontend Developer and Otaku from India</h3>
+<h1 align="center">Ho HOii! I'm Utkarsh! 😄</h1>
+<h3 align="center">Fullstack Developer and Otaku from India</h3>
 
-- 🔭 I’m currently working on **Mastering FrontEnd Development**
+- 🔭 I’m currently working on **Mastering BackendEnd Development**
 
 - 🌱 I’m currently learning **NodeJS and React**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/utk2001/](https://www.linkedin.com/in/utk2001/)
 
-- 💬 Ask me about **HTML,CSS,Java,Python And Anime**
+- 💬 Ask me about **HTML,CSS,Java,PHP,C++ And Anime🤔😂**
 
 - 📫 How to reach me **utkarshmishra2001@gmail.com**
 
