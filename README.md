@@ -18,15 +18,15 @@
 
 - 🔭 I’m currently working in **Backend using PHP**
 
-- 🌱 I’m currently learning **NodeJS and React** along with **AIML** as my major in college
+- 🌱 I’m currently learning **Blockchain Development** along with **AIML** as my major in college
 
 - 🤝 I’m looking for help with **Participating in Open Source Events**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lordhacker756](https://github.com/Lordhacker756)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/utk2001/](https://www.linkedin.com/in/utk2001/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/utkarsh708/)
 
-- 💬 Ask me about **HTML,CSS,Python,PHP,C++ And Anime🤔😂**
+- 💬 Ask me about **HTML,CSS,Python,PHP,C++, Java, Blockchain And Anime🤔😂**
 
 - 📫 How to reach me **utkarshmishra2001@gmail.com**
 
