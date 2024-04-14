@@ -87,23 +87,6 @@ Lordhacker756 | Utkarsh
 </p>
 
 
-## GitHub Stats
-
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lordhacker756&bg_color=000000&color=ffffff&line=5c03e2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Lordhacker756&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lordhacker756&theme=algolia)                    | 
-    
-
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Lordhacker756&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordhacker756&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
