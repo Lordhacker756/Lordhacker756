@@ -3,28 +3,25 @@
 Hi, I'm Utkarsh Mishra!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/Lordhacker756" alt="Profile views" align='right'/> <a href="https://github.com/Lordhacker756/Lordhacker756"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=5609F7&lines=Full+Stack+MERN+Developer%E2%9A%9B%EF%B8%8F;Web3+And+DevOps+Enthusiast%F0%9F%94%97;CSE+AI+%26+ML+Student+%F0%9F%A4%96%F0%9F%92%9C;SSS+Class+Weeb%F0%9F%8E%8E&center=true&width=380&height=45"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&color=4700F7&center=true&random=false&width=435&lines=React+Native%F0%9F%93%B1;Spring-Boot+%F0%9F%8C%B1;React+JS+%F0%9F%8C%90" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://github.com/Lordhacker756/Lordhacker756/blob/master/chill.jpg" alt="Unfortunately the image teleported to another dimension, I'll let you known once I found it!!" width="320" />
+<img align="left" src="https://github.com/Lordhacker756/Lordhacker756/blob/master/chill.jpg" alt="Unfortunately the image teleported to another dimension, I'll let you known once I found it!!" width="250" />
 <hr>
 
 ```
 Lordhacker756 | Utkarsh
 -------------------------
-💻 I am a self taught Full Stack Developer, AIML Student and DevOps, Web3 Enthusiast
+💻 I am a self taught Full Stack Developer, AIML Student
 📚 I'm currently pursuing Bachelors in Computer Science from Hyderabad
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I have a strong interest in Fullstack Development
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🌱 Learning about Springboot3 and Microservices
+🌟 Main languages: JS, Java
 💖 In a complicated unresolved promise with JavaScript
 🎵 Love music, long walks at night with deep converstions and nature
 ```
@@ -95,7 +92,7 @@ Lordhacker756 | Utkarsh
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Lordhacker756&theme=react-dark&hide_border=true&area=true) |
+| [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lordhacker756&bg_color=000000&color=ffffff&line=5c03e2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 | ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Lordhacker756&show_icons=true&theme=algolia)              | 
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lordhacker756&theme=algolia)                    | 
     
@@ -115,7 +112,7 @@ Lordhacker756 | Utkarsh
 
 If you have any questions about front-end web development, feel free to <a href="mailto:utkarshmishra2001@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.linkedin.com/in/theutkarshmishra/">LinkedIn</a> for your web dev projects.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/theutkarshmishra/">LinkedIn</a> for your fullstack projects.
 
   </td>
   <td width="50%" valign="top">
