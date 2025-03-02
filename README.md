@@ -1,9 +1,9 @@
-<img src="https://github.com/Lordhacker756/Lordhacker756/blob/master/banner.png">
+<img src="https://github.com/Lordhacker756/Lordhacker756/blob/master/your-lie-in-april-piano.gif">
 
 # 👋 こんにちは, 私はウトカルシュです! 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Bitcoin+Dev+%E2%9C%A8;Rust+%2B+Next.js+Ninja;Ultimate+Weeb+Lord+%F0%9F%8E%8C;Surpassing+My+Limits+%26+Going+Beyond!)
 
-<img align="right" src="https://github.com/Lordhacker756/Lordhacker756/blob/master/sleep.gif" width="250"/>
+<img align="right" src="https://github.com/Lordhacker756/Lordhacker756/blob/master/nah-id-sleep-nah-id-win.gif" width="250"/>
 
 ```yaml
 Lordhacker756 | Utkarsh Mishra
