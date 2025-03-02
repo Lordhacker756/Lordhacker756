@@ -13,8 +13,7 @@ Lordhacker756 | Utkarsh Mishra
 🔥 Passion for Bitcoin & Web3
 📖 Learning Japanese for anime without subtitles
 🎶 "Silhouette" & "Hikaru Nara🌸" on repeat while coding
-💭 Waiting for my romcom protagonist moment
-🍜 Ramen enthusiast like Naruto
+💭 Waiting for my rom-com protagonist moment🎏
 ```
 
 ---
@@ -64,8 +63,8 @@ Lordhacker756 | Utkarsh Mishra
 
 ## ☕ Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theutkarshmishra/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/rudraksx))
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white)]([https://myanimelist.net/](https://myanimelist.net/profile/IsseyHyodo))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/rudraksx)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/IsseyHyodo)
 
 ---
 
